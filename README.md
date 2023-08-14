@@ -27,3 +27,13 @@ To gather the data essential for system identification, we employ a Schroeder sw
 The subsequent steps in the SINDy learning process closely resemble those found in other instances within the PySindy repository, accessible at https://github.com/dynamicslab/pysindy/tree/master/examples. Readers are encouraged to explore these illustrative notebooks for additional insights and explanations.
 
 # Results and Visualisation
+
+<div style="display: flex; justify-content: center;">
+  <img src="Pics/PySINDy-MPC/trajectory_plot.png" alt="Trajectory" style="margin-right: 10px; width: 45%;">
+  <img src="Pics/PySINDy-MPC/states_plot.png" alt="States" style="width: 45%;">
+</div>
+
+<div style="display: flex; justify-content: center;">
+  <img src="Pics/PySINDy-MPC/controls_plot.png" alt="Trajectory" style="margin-right: 10px; width: 45%;">
+  <img src="Pics/PySINDy-MPC/cost_plot.png" alt="States" style="width: 45%;">
+</div>
