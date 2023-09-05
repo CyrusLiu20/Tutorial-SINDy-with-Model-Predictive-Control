@@ -34,6 +34,6 @@ The subsequent steps in the SINDy learning process closely resemble those found 
 </div>
 
 <div style="display: flex; justify-content: center;">
-  <img src="Pics/PySINDy-MPC/controls_plot.png" alt="Trajectory" style="margin-right: 10px; width: 45%;">
+  <img src="Pics/PySINDy-MPC/control_plot.png" alt="Trajectory" style="margin-right: 10px; width: 45%;">
   <img src="Pics/PySINDy-MPC/cost_plot.png" alt="States" style="width: 45%;">
 </div>
